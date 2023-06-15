@@ -823,7 +823,14 @@ input[type="radio"] + label:before {
 
 .image.main img {
   width: 100%;
-  margin-bottom: 120px;
+}
+.techIconStack {
+  margin-bottom: 70px;
+  margin-right: 60px;
+}
+.techIcon {
+  margin-bottom: 70px;
+  margin-right: 20px;
 }
 
 @media screen and (max-width: 736px) {
