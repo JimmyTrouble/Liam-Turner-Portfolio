@@ -825,11 +825,11 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 .techIconStack {
-  margin-bottom: 70px;
+  margin-bottom: 85px;
   margin-right: 60px;
 }
 .techIcon {
-  margin-bottom: 70px;
+  margin-bottom: 85px;
   margin-right: 20px;
 }
 
