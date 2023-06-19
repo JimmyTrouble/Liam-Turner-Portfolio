@@ -393,6 +393,10 @@ hr {
   margin: 2.75rem 0;
 }
 
+#projects {
+  margin-bottom: 70px;
+}
+
 .align-left {
   text-align: left;
 }
@@ -829,14 +833,13 @@ input[type="radio"] + label:before {
   margin-right: 60px;
 }
 .techIcon {
-  margin-bottom: 85px;
+  margin-bottom: 90px;
   margin-right: 20px;
   height: 50px;
 }
 
 @media (max-width: 736px) {
   .techIcon {
-    margin-bottom: 42px;
     margin-right: 12px;
     height: 32px;
   }
