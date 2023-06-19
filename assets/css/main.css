@@ -831,6 +831,15 @@ input[type="radio"] + label:before {
 .techIcon {
   margin-bottom: 85px;
   margin-right: 20px;
+  height: 50px;
+}
+
+@media (max-width: 736px) {
+  .techIcon {
+    margin-bottom: 42px;
+    margin-right: 12px;
+    height: 32px;
+  }
 }
 
 @media screen and (max-width: 736px) {
