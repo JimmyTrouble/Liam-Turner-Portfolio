@@ -1810,3 +1810,11 @@ body.is-article-visible #footer {
 body.is-preload #footer {
   opacity: 0;
 }
+#contact p {
+  font-size: 30px;
+}
+
+#contact .subhead {
+  font-size: 20px; /* Adjust the font size to your preference */
+  text-decoration: none;
+}
