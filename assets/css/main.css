@@ -316,6 +316,9 @@ h2 {
 h3 {
   font-size: 1rem;
 }
+h3:hover {
+  opacity: 0.5;
+}
 
 h4 {
   font-size: 0.8rem;
@@ -834,6 +837,11 @@ input[type="radio"] + label:before {
 }
 .techIcon {
   margin-bottom: 90px;
+  margin-right: 20px;
+  height: 50px;
+}
+.techIcon1 {
+  margin-bottom: 25px;
   margin-right: 20px;
   height: 50px;
 }
